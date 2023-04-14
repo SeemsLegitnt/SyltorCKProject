@@ -1,0 +1,43 @@
+
+
+e_empire_tier = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	capital = c_county_tier
+
+	k_kingdom_tier = {
+		color = { 0 0 0 }
+		color2 = { 255 255 255 }
+		capital = c_county_tier
+
+		d_duchy_tier = {
+			color = { 0 0 0 }
+			color2 = { 255 255 255 }
+			capital = c_county_tier
+
+			c_county_tier = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+
+				b_barony_tier = {
+					color = { 0 0 0 }
+					color2 = { 255 52 255 }
+					province = 1 
+				}
+				b_barony_tier = {
+					color = { 0 0 0 }
+					color2 = { 255 100 255 }
+					province = 2 
+				
+			}
+			b_barony_tier = {
+				color = { 0 0 0 }
+				color2 = { 255 1 255 }
+				province = 3 
+			}
+
+		}
+	}	
+}
+
+}
