@@ -7,7 +7,7 @@ e_ashura = {
 	color = { 209 63 44 }
 	color2 = { 0 0 0 }
 	
-	capital = c_county_tier
+	capital = c_canarias # Canarias
 	
 	ai_primary_priority = {
 		if = {
@@ -84,7 +84,7 @@ e_ashura = {
 			}
 
 			c_mukantagara = {
-				color = { 0 0 0 }
+				color = { 3 11 134 }
 				color2 = { 0 0 0 }
 				
 				b_MukantagarasTemples = {
@@ -110,7 +110,7 @@ e_ashura = {
 			}
 
 			c_nirine = {
-				color = { 0 0 0 }
+				color = { 191 11 11 }
 				color2 = { 0 0 0 }
 				
 				b_Nirine_IretuLeft = {
@@ -140,49 +140,50 @@ e_ashura = {
 					color = { 255 32 0 }
 					color2 = { 0 0 0 }
 				}
+
+				b_Nirine_HajiaoSpa = {
+					province = 13
+					
+					color = { 230 62 4 }
+					color2 = { 0 0 0 }
+				}
 			}
 	
 			c_aashkotis = {
-				color = { 0 0 0 }
+				color = { 3 59 17 }
 				color2 = { 0 0 0 }
 				
 				b_aashkotis1 = {
-					province = 13
-					
-					color = { 2 38 10 }
-					color2 = { 0 0 0 }
-				}
-
-				b_aashkotis2 = {
 					province = 14
 					
 					color = { 3 59 17 }
 					color2 = { 0 0 0 }
 				}
 
-				b_aashkotis3 = {
+				b_aashkotis2 = {
 					province = 15
 					
 					color = { 4 82 23 }
 					color2 = { 0 0 0 }
 				}
 
-				b_aashkotis4 = {
+				b_aashkotis3 = {
 					province = 16
 					
 					color = { 6 97 29 }
 					color2 = { 0 0 0 }
 				}
+
 			}
 
 			c_ebonimembal = {
-				color = { 0 0 0 }
+				color = { 17 13 55 }
 				color2 = { 0 0 0 }
 				
 				b_Ebonimembal1 = {
 					province = 17
 					
-					color = { 17 23 55 }
+					color = { 17 13 55 }
 					color2 = { 0 0 0 }
 				}
 
@@ -208,296 +209,7 @@ e_ashura = {
 				}
 			}
 		}
-
-		d_menatkahun = {
-			color = { 3 87 87 }
-			color2 = { 0 0 0 }
-			
-			capital = c_county_tier
-			
-			c_djinn = {
-				color = { 22 107 181 }
-				color2 = { 0 0 0 }
-				
-				b_DjinnsManorTemple = {
-					province = 21
-					
-					color = { 21 12 1 }
-					color2 = { 0 0 0 }
-				}
-
-				b_DjinnsManorVillage = {
-					province = 22
-					
-					color = { 34 18 0 }
-					color2 = { 0 0 0 }
-				}
-
-				b_DjinnsManorHolding = {
-					province = 23
-					
-					color = { 49 27 1 }
-					color2 = { 0 0 0 }
-				}
-
-				b_DjinnsManorSection = {
-					province = 24
-					
-					color = { 83 42 1 }
-					color2 = { 0 0 0 }
-				}
-
-			}
-
-			c_djunse = {
-				color = { 0 0 0 }
-				color2 = { 0 0 0 }
-				
-				b_DjunseStables = {
-					province = 25
-					
-					color = { 5 118 3 }
-					color2 = { 0 0 0 }
-				}
-
-				b_DjunseCity = {
-					province = 26
-					
-					color = { 2 83 1 }
-					color2 = { 0 0 0 }
-				}
-
-				b_DjunseHolding = {
-					province = 27
-					
-					color = { 2 60 1 }
-					color2 = { 0 0 0 }
-				}
-			}
-
-			c_khamen = {
-				color = { 0 0 0 }
-				color2 = { 0 0 0 }
-				
-				b_KhamenManor = {
-					province = 28
-					
-					color = { 2 40 1 }
-					color2 = { 0 0 0 }
-				}
-
-				b_KhamenExpanded1 = {
-					province = 29
-					
-					color = { 42 11 1 }
-					color2 = { 0 0 0 }
-				}
-
-				b_KhamenExpanded2 = {
-					province = 30
-					
-					color = { 34 7 0 }
-					color2 = { 0 0 0 }
-				}
-
-			}
-	
-			c_oraman = {
-				color = { 0 0 0 }
-				color2 = { 0 0 0 }
-				
-				b_OramanPass = {
-					province = 31
-					
-					color = { 128 3 132 }
-					color2 = { 0 0 0 }
-				}
-
-				b_OramanHolding = {
-					province = 32
-					
-					color = { 88 1 91 }
-					color2 = { 0 0 0 }
-				}
-
-				b_OramanBridge = {
-					province = 33
-					
-					color = { 59 3 60 }
-					color2 = { 0 0 0 }
-				}
-
-			}
-
-			c_anopis = {
-				color = { 0 0 0 }
-				color2 = { 0 0 0 }
-				
-				b_Anopis = {
-					province = 36
-					
-					color = { 7 83 74 }
-					color2 = { 0 0 0 }
-				}
-
-				b_MenatKahunCity = {
-					province = 37
-					
-					color = { 4 118 103 }
-					color2 = { 0 0 0 }
-				}
-
-				b_MenatKahunHolding = {
-					province = 38
-					
-					color = { 21 124 113 }
-					color2 = { 0 0 0 }
-				}
-
-			}
-		}
-
-		d_haijou = {
-			color = { 0 0 0 }
-			color2 = { 0 0 0 }
-			
-			capital = c_county_tier
-			
-			c_hewepet = {
-				color = { 22 107 181 }
-				color2 = { 0 0 0 }
-				
-				b_HewpetNatir = {
-					province = 39
-					
-					color = { 3 64 17 }
-					color2 = { 0 0 0 }
-				}
-
-				b_FourSagesMosqueVillage = {
-					province = 40
-					
-					color = { 1 61 13 }
-					color2 = { 0 0 0 }
-				}
-
-				b_OramanBridge = {
-					province = 41
-					
-					color = { 2 47 12 }
-					color2 = { 0 0 0 }
-				}
-
-				b_FourSagesMosqueHolding = {
-					province = 42
-					
-					color = { 1 61 13 }
-					color2 = { 0 0 0 }
-				}
-
-			}
-
-			c_yenedu = {
-				color = { 0 0 0 }
-				color2 = { 0 0 0 }
-				
-				b_Yenedu1 = {
-					province = 43
-					
-					color = { 11 69 102 }
-					color2 = { 0 0 0 }
-				}
-
-				b_Yenedu2 = {
-					province = 44
-					
-					color = { 6 46 70 }
-					color2 = { 0 0 0 }
-				}
-
-				b_Yenedu3 = {
-					province = 45
-					
-					color = { 2 30 49 }
-					color2 = { 0 0 0 }
-				}
-
-				b_Yenedu4 = {
-					province = 46
-					
-					color = { 3 24 37 }
-					color2 = { 0 0 0 }
-				}
-			}
-
-			c_nekal = {
-				color = { 0 0 0 }
-				color2 = { 0 0 0 }
-				
-				b_NekalNedu1 = {
-					province = 47
-					
-					color = { 47 124 27 }
-					color2 = { 0 0 0 }
-				}
-
-				b_NekalNedu2 = {
-					province = 48
-					
-					color = { 22 94 8 }
-					color2 = { 0 0 0 }
-				}
-
-			}
-	
-			c_osaro = {
-				color = { 0 0 0 }
-				color2 = { 0 0 0 }
-				
-				b_Osaro = {
-					province = 49
-					
-					color = { 46 108 2 }
-					color2 = { 0 0 0 }
-				}
-
-				b_NirineBetu1 = {
-					province = 50
-					
-					color = { 61 126 7 }
-					color2 = { 0 0 0 }
-				}
-
-				b_NirineBetu2 = {
-					province = 51
-					
-					color = { 30 64 3 }
-					color2 = { 0 0 0 }
-				}
-
-			}
-
-			c_tlallteyotlan = {
-				color = { 0 0 0 }
-				color2 = { 0 0 0 }
-				
-				b_Tlallteyotlan1 = {
-					province = 52
-					
-					color = { 50 69 57 }
-					color2 = { 0 0 0 }
-				}
-
-				b_Tlallteyotlan2 = {
-					province = 53
-					
-					color = { 24 31 27 }
-					color2 = { 0 0 0 }
-				}
-
-		}
 	}
-}
 }
 
 # These mock titles cut hundreds of errors from logs. Additional titles could further reduce logs at the cost of tedium and bloat in this file.
