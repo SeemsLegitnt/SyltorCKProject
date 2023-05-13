@@ -5,7 +5,7 @@
 e_ashura = {
 	# THIS NEEDS TO BE FIXED LATER
 	color = { 209 63 44 }
-	color2 = { 0 0 0 }
+	color2 = { 209 63 44 }
 	
 	capital = c_canarias # Canarias
 	
@@ -22,7 +22,7 @@ e_ashura = {
 
 	k_sharla = {
 		color = { 255 192 0 }
-		color2 = { 0 0 0 }
+		color2 = { 255 192 0 }
 		
 		capital = c_county_tier
 		
@@ -39,173 +39,173 @@ e_ashura = {
 
 		d_qamiya = {
 			color = { 3 87 87 }
-			color2 = { 0 0 0 }
+			color2 = { 3 87 87 }
 			
 			capital = c_county_tier
 			
 			c_qamiya = {
 				color = { 22 107 181 }
-				color2 = { 0 0 0 }
+				color2 = { 22 107 181 }
 				
 				b_CapeMasun = {
 					province = 1
 					
 					color = { 3 87 87 }
-					color2 = { 0 0 0 }
+					color2 = { 3 87 87 }
 				}
 
 				b_QamiyaCity = {
 					province = 2
 					
 					color = { 4 46 46 }
-					color2 = { 0 0 0 }
+					color2 = { 4 46 46 }
 				}
 
 				b_QamiyaCastle = {
 					province = 3
 					
 					color = { 6 34 34 }
-					color2 = { 0 0 0 }
+					color2 = { 6 34 34 }
 				}
 
 				b_QamiyaTemple = {
 					province = 4
 					
 					color = { 5 26 26 }
-					color2 = { 0 0 0 }
+					color2 = { 5 26 26 }
 				}
 
 				b_QamiyaHolding = {
 					province = 5
 					
 					color = { 2 16 16 }
-					color2 = { 0 0 0 }
+					color2 = { 2 16 16 }
 				}
 			}
 
 			c_mukantagara = {
 				color = { 3 11 134 }
-				color2 = { 0 0 0 }
+				color2 = { 3 11 134 }
 				
 				b_MukantagarasTemples = {
 					province = 6
 					
 					color = { 3 11 134 }
-					color2 = { 0 0 0 }
+					color2 = { 3 11 134 }
 				}
 
 				b_MukantagarasHolding = {
 					province = 7
 					
 					color = { 6 12 76 }
-					color2 = { 0 0 0 }
+					color2 = { 6 12 76 }
 				}
 
 				b_MukantagarasCastle = {
 					province = 8
 					
 					color = { 18 27 94 }
-					color2 = { 0 0 0 }
+					color2 = { 18 27 94 }
 				}
 			}
 
 			c_nirine = {
 				color = { 191 11 11 }
-				color2 = { 0 0 0 }
+				color2 = { 191 11 11 }
 				
 				b_Nirine_IretuLeft = {
 					province = 9
 					
 					color = { 191 11 11 }
-					color2 = { 0 0 0 }
+					color2 = { 191 11 11 }
 				}
 
 				b_Nirine_iretuRight = {
 					province = 10
 					
 					color = { 28 0 0 }
-					color2 = { 0 0 0 }
+					color2 = { 28 0 0 }
 				}
 
 				b_Nirine_IretuHajiaoCastle = {
 					province = 11
 					
 					color = { 124 23 2 }
-					color2 = { 0 0 0 }
+					color2 = { 124 23 2 }
 				}
 
 				b_Nirine_IretuHajiaoHill = {
 					province = 12
 					
 					color = { 255 32 0 }
-					color2 = { 0 0 0 }
+					color2 = { 255 32 0 }
 				}
 
 				b_Nirine_HajiaoSpa = {
 					province = 13
 					
 					color = { 230 62 4 }
-					color2 = { 0 0 0 }
+					color2 = { 230 62 4 }
 				}
 			}
 	
 			c_aashkotis = {
 				color = { 3 59 17 }
-				color2 = { 0 0 0 }
+				color2 = { 3 59 17 }
 				
 				b_aashkotis1 = {
 					province = 14
 					
 					color = { 3 59 17 }
-					color2 = { 0 0 0 }
+					color2 = { 3 59 17 }
 				}
 
 				b_aashkotis2 = {
 					province = 15
 					
 					color = { 4 82 23 }
-					color2 = { 0 0 0 }
+					color2 = { 4 82 23 }
 				}
 
 				b_aashkotis3 = {
 					province = 16
 					
 					color = { 6 97 29 }
-					color2 = { 0 0 0 }
+					color2 = { 6 97 29 }
 				}
 
 			}
 
 			c_ebonimembal = {
 				color = { 17 13 55 }
-				color2 = { 0 0 0 }
+				color2 = { 17 13 55 }
 				
 				b_Ebonimembal1 = {
 					province = 17
 					
 					color = { 17 13 55 }
-					color2 = { 0 0 0 }
+					color2 = { 17 13 55 }
 				}
 
 				b_Ebonimembal2 = {
 					province = 18
 					
 					color = { 12 8 48 }
-					color2 = { 0 0 0 }
+					color2 = { 12 8 48 }
 				}
 
 				b_Ebonimembal3 = {
 					province = 19
 					
 					color = { 11 8 37 }
-					color2 = { 0 0 0 }
+					color2 = { 11 8 37 }
 				}
 
 				b_Ebonimembal4 = {
 					province = 20
 					
 					color = { 80 66 191 }
-					color2 = { 0 0 0 }
+					color2 = { 80 66 191 }
 				}
 			}
 		}
