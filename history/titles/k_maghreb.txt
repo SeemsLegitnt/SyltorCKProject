@@ -1,43 +1,53 @@
-
-
-e_empire_tier = {
-	color = { 0 0 0 }
-	color2 = { 255 255 255 }
-	capital = c_county_tier
-
-	k_kingdom_tier = {
-		color = { 0 0 0 }
-		color2 = { 255 255 255 }
-		capital = c_county_tier
-
-		d_duchy_tier = {
-			color = { 0 0 0 }
-			color2 = { 255 255 255 }
-			capital = c_county_tier
-
-			c_county_tier = {
-				color = { 0 0 0 }
-				color2 = { 255 255 255 }
-
-				b_barony_tier = {
-					color = { 0 0 0 }
-					color2 = { 255 52 255 }
-					province = 1 
-				}
-				b_barony_tier = {
-					color = { 0 0 0 }
-					color2 = { 255 100 255 }
-					province = 2 
-				
-			}
-			b_barony_tier = {
-				color = { 0 0 0 }
-				color2 = { 255 1 255 }
-				province = 3 
-			}
-
-		}
-	}	
+e_maghreb = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
 }
 
+k_maghreb = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+}
+
+d_canarias = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+}
+
+c_canarias = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+	767.1.1 = { government = tribal_government }
+	850.1.1 = {
+		holder = 166423
+	}
+	877.1.1 = {
+		holder = 166424
+	}
+	906.1.1 = {
+		holder = 166425
+	}
+	929.1.1 = {
+		holder = 166426
+	}
+	941.1.1 = {
+		holder = 166427
+	}
+	964.1.1 = {
+		holder = 166428
+	}
+	979.1.1 = {
+		holder = 166429
+	}
+	994.1.1 = {
+		holder = 166430
+	}
+	1010.1.1 = {
+		holder = 166431
+	}
+	1030.1.1 = {
+		holder = 166432
+	}
+	1066.1.1 = {
+		holder = 20842
+	}
 }
